@@ -31,8 +31,8 @@ github_username: ewurch
 collections_dir: projects
 collections:
   conafarq:
-    output: true
-  
+    output: false  # Changed from true to false to prevent automatic inclusion in navigation
+
 # Build settings
 remote_theme: jekyll/minima
 
