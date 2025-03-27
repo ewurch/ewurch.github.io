@@ -9,7 +9,7 @@ image: /assets/images/news-rag/banner.webp
 
 # Transforming News Archives into an Interactive Knowledge Base
 
-At [PARKA](https://parka.com), we recently partnered with a prominent regional newspaper to help them leverage decades of local journalism in the digital age. 
+At [PARKA](https://parka.cc), we recently partnered with a prominent regional newspaper to help them leverage decades of local journalism in the digital age. 
 
 This post details our journey of building a [Retrieval-Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) system that transforms their vast archive into an interactive knowledge base accessible to the community.
 
